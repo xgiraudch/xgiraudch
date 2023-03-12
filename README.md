@@ -1,6 +1,6 @@
 ### Bonjour 👋
 
-Je m'appelle Xavier et je suis actuellement à la recherche d'un poste de Data Analyst Junior.
+Je suis actuellement à la recherche d'un poste de Data Analyst Junior.
 Je travaille principalement sur SQL, Excel et Power BI. Mais je maîtrise également Python et les bases du Machine Learning.
 
 Mon histoire:
