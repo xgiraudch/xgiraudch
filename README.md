@@ -6,7 +6,7 @@ Je travaille principalement sur SQL, Excel et Power BI. Mais je maîtrise égale
 Mon histoire:
 Long story short, j'ai des problèmes de santé depuis plus de dix ans maintenant. Ces problèmes de santé ont beaucoup perturbé ma scolarité. Malgré ces difficultés, j'ai réussi à faire une classe préparatoire et à intégrer le Magistère Ingénieur Économiste de l'École d'économie de Marseille (Aix-Marseille School of Economics pour les connaisseurs...). 
 
-Lors de mon Master 2, mes problèmes de santé se sont aggravés et j'ai dû abandonner mes études car j'étais dans l'impossibilité de faire un stage pour valider mon année (j'ai par ailleurs suivi tous les cours du master!!). Après cet épisode douloureux, j'ai décidé de partir vivre à Londres pendant un an et demi pour prendre le temps de souffler et essayer de trouver une solution à ces satanés problèmes de santé... Et j'ai réussi! Aujourd'hui, je suis en pleine forme et je donne plus de 25h de cours de français par semaine. Mais j'aimerais à mon premier amour: la data! 
+Lors de mon Master 2, mes problèmes de santé se sont aggravés et j'ai dû abandonner mes études car j'étais dans l'impossibilité de faire un stage pour valider mon année (j'ai par ailleurs suivi tous les cours du master!!). Après cet épisode douloureux, j'ai décidé de partir vivre à Londres pendant un an et demi pour prendre le temps de souffler et essayer de trouver une solution à ces satanés problèmes de santé... Et j'ai réussi! Aujourd'hui, je suis en pleine forme et je donne plus de 25h de cours de français par semaine. Mais j'aimerais revenir à mon premier amour: la data! 
 
 Je vous invite donc à jeter un oeil à mon portfolio et à me contacter si vous êtes intéressé.e par mon profil :)
 
