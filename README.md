@@ -17,10 +17,10 @@ En ce moment.....
 
 - 🔭 Je crée des projets pour développer mon portfolio et vous convaincre de m'appeler pour un entretien!
 
-- 🌱 Je développe mes connaissances sur Power Query et VBA grâce à des cours sur Coursera ou Youtube.
+- 🌱 Je développe mes connaissances sur Power Query et VBA grâce à Coursera et Youtube.
 
 - 👯 J'espère trouver un emploi ou un stage en tant que Data Analyst Junior.... 
 
-- 📫 Contact: email => xgiraudcharreyron@gmail.com | Linkedin => Xavier Giraud-Charreyron
+- 📫 Contact: email => xgiraudcharreyron@gmail.com | Linkedin => [Xavier Giraud-Charreyron](https://www.linkedin.com/in/xavier-giraud-charreyron-28013b213/)
 
 - ⚡ Fun fact: sur mon CV, je parle de ma passion pour les échecs. Mais je suis en réalité un redoutable pongiste, prêt à mourir sur la table s'il le faut!
