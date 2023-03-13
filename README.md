@@ -1,3 +1,5 @@
+### Si vous n'avez pas le temps, c'est par [ici](https://github.com/xgiraudch/Portfolio)
+
 ### Bonjour 👋
 
 Je suis actuellement à la recherche d'un poste de Data Analyst Junior.
@@ -8,7 +10,7 @@ Long story short, j'ai des problèmes de santé depuis plus de dix ans maintenan
 
 Lors de mon Master 2, mes problèmes de santé se sont aggravés et j'ai dû abandonner mes études car j'étais dans l'impossibilité de faire un stage pour valider mon année (j'ai par ailleurs suivi tous les cours du master!!). Après cet épisode douloureux, j'ai décidé de partir vivre à Londres pendant un an et demi pour prendre le temps de souffler et essayer de trouver une solution à ces satanés problèmes de santé... Et j'ai réussi! Aujourd'hui, je suis en pleine forme et je donne plus de 25h de cours de français par semaine. Mais j'aimerais revenir à mon premier amour: la data! 
 
-Je vous invite donc à jeter un oeil à mon portfolio et à me contacter si vous êtes intéressé.e par mon profil :)
+Je vous invite donc à jeter un oeil à [mon portfolio](https://github.com/xgiraudch/Portfolio) et à me contacter si vous êtes intéressé.e par mon profil :)
 
 NOTE: je dispose d'une reconnaissance de travailleur handicapé (RQTH) valable jusqu'à 2024 (renouvelable).
 
