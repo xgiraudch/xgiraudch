@@ -12,7 +12,7 @@ Lors de mon Master 2, mes problèmes de santé se sont aggravés et j'ai dû aba
 
 Je vous invite donc à jeter un oeil à [mon portfolio](https://github.com/xgiraudch/Portfolio) et à me contacter si vous êtes intéressé.e par mon profil :)
 
-NOTE: je dispose d'une reconnaissance de travailleur handicapé (RQTH) valable jusqu'à 2024 (renouvelable).
+NOTE: je dispose d'une reconnaissance de travailleur handicapé (RQTH) valable jusqu'à décembre 2024 (renouvelable).
 
 
 En ce moment.....
